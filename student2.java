@@ -1,6 +1,6 @@
 import java.util.Arrays;
 class student2 extends course{
-    String name="Swarna";
+    String name="Zoya";
     String dept="BCA";
     int sem=4;
     String getname(){
